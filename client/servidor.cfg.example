@@ -1,0 +1,4 @@
+server = http://192.168.56.10:8080/
+oauth-client-id = 20353dace17f35ea7bdab68c928f48e9f34155bf29e8364a656a620f7ada69c2
+oauth-client-secret = 17d1a5dd2bdf7513083f8c04a0141dba60bc3e68435c4b0d794d76569c87b51d
+tag = prueba1-glpi
